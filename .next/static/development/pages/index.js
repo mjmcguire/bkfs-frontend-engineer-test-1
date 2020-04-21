@@ -1023,7 +1023,7 @@ var Link = /*#__PURE__*/function (_react$Component) {
 if (true) {
   var warn = (0, _utils.execOnce)(console.error); // This module gets removed by webpack.IgnorePlugin
 
-  var PropTypes = __webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js");
+  var PropTypes = __webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js?64ae");
 
   var exact = __webpack_require__(/*! prop-types-exact */ "./node_modules/prop-types-exact/build/index.js"); // @ts-ignore the property is supported, when declaring it on the class it outputs an extra bit of code which is not needed.
 
@@ -2575,7 +2575,7 @@ module.exports = (__webpack_require__(/*! dll-reference dll_2adc2403d89adc16ead0
 
 /***/ }),
 
-/***/ "./node_modules/prop-types/factoryWithTypeCheckers.js":
+/***/ "./node_modules/prop-types/factoryWithTypeCheckers.js?62e2":
 /*!************************************************************************************************************************!*\
   !*** D:/Users/Ndoto/Documents/GitHub/bkfs-frontend-engineer-test-1/node_modules/prop-types/factoryWithTypeCheckers.js ***!
   \************************************************************************************************************************/
@@ -3178,7 +3178,7 @@ module.exports = function(isValidElement, throwOnDirectAccess) {
 
 /***/ }),
 
-/***/ "./node_modules/prop-types/index.js":
+/***/ "./node_modules/prop-types/index.js?64ae":
 /*!******************************************************************************************************!*\
   !*** D:/Users/Ndoto/Documents/GitHub/bkfs-frontend-engineer-test-1/node_modules/prop-types/index.js ***!
   \******************************************************************************************************/
@@ -3198,7 +3198,7 @@ if (true) {
   // By explicitly using `prop-types` you are opting into new development behavior.
   // http://fb.me/prop-types-in-prod
   var throwOnDirectAccess = true;
-  module.exports = __webpack_require__(/*! ./factoryWithTypeCheckers */ "./node_modules/prop-types/factoryWithTypeCheckers.js")(ReactIs.isElement, throwOnDirectAccess);
+  module.exports = __webpack_require__(/*! ./factoryWithTypeCheckers */ "./node_modules/prop-types/factoryWithTypeCheckers.js?62e2")(ReactIs.isElement, throwOnDirectAccess);
 } else {}
 
 
@@ -4468,7 +4468,7 @@ function Index() {
 
 /***/ }),
 
-/***/ 1:
+/***/ 3:
 /*!*************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=D%3A%5CUsers%5Cndoto%5CDocuments%5CGitHub%5Cbkfs-frontend-engineer-test-1%5Cpages%5Cindex.js ***!
   \*************************************************************************************************************************************************************/
@@ -4491,5 +4491,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[3,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
