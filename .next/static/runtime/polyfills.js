@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/runtime/polyfills.js"],{
 
 /***/ "./node_modules/next/dist/build/polyfills/polyfill-nomodule.js":
-/*!*********************************************************************************************************************************!*\
-  !*** D:/Users/Ndoto/Documents/GitHub/bkfs-frontend-engineer-test-1/node_modules/next/dist/build/polyfills/polyfill-nomodule.js ***!
-  \*********************************************************************************************************************************/
+/*!*********************************************************************!*\
+  !*** ./node_modules/next/dist/build/polyfills/polyfill-nomodule.js ***!
+  \*********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14,9 +14,9 @@
 /***/ }),
 
 /***/ "./node_modules/next/dist/client/polyfills.js":
-/*!****************************************************************************************************************!*\
-  !*** D:/Users/Ndoto/Documents/GitHub/bkfs-frontend-engineer-test-1/node_modules/next/dist/client/polyfills.js ***!
-  \****************************************************************************************************************/
+/*!****************************************************!*\
+  !*** ./node_modules/next/dist/client/polyfills.js ***!
+  \****************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

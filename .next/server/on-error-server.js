@@ -94,9 +94,9 @@ module.exports =
 /******/ ({
 
 /***/ "./node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-error-server!./":
-/*!*******************************************************************************************************************************************************************!*\
-  !*** D:/Users/Ndoto/Documents/GitHub/bkfs-frontend-engineer-test-1/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-error-server ***!
-  \*******************************************************************************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-error-server ***!
+  \*******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
